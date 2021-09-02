@@ -17,8 +17,9 @@
 ### 📸 Github Snapshot
 
 Thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=smartcoder-7&show_icons=true&theme=radical)
-![Prefered Languages]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankfka&hide=html&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smartcoder-7&hide=html&theme=radical" />
 
 
 ### 💻 Languages & Technologies
