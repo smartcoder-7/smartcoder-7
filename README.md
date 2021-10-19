@@ -9,7 +9,7 @@
 
 ### 🔨 Latest Activity
 
-- Blockchain developer at Galaxy-Lab
+- Blockchain developer - Solidiy, Rust
 - Staying active & trying cool recipes
 - Maintaining a daily Taichi
 - Looking for cool 👨‍💻 projects
