@@ -4,7 +4,7 @@
 📫 Email: [dreamhigh0415@gmail.com](mailto:dreamhigh0415@gmail.com)
 🎄 Discord: cryptodream#1856
 🎁 Telegram: @CryptoBuilder7
-
+🎄 Twitter: [cryptobuilder_7](https://twitter.com/cryptobuilder_7)
 <br>
 
 ### 🔨 Latest Activity
