@@ -3,12 +3,13 @@
 
 📫 Email: [dreamhigh0415@gmail.com](mailto:dreamhigh0415@gmail.com)
 🎄 Discord: cryptodream#1856
-🎁 Telegram: @CryptoBuilder7
+🎁 Telegram: @DreamBuilder7
 🎄 Twitter: [cryptobuilder_7](https://twitter.com/cryptobuilder_7)
 <br>
 
 ### 🔨 Latest Activity
 
+- Frontend architect - React.js, Next.js, Node.js, Typescript
 - Blockchain developer - Solidiy, Rust
 - Staying active & trying cool recipes
 - Maintaining a daily Taichi
