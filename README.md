@@ -2,7 +2,7 @@
 <h3 align="center">Full stack/Blockchain Software Engineer. Crypto Enthusiast. Lifetime learner</h3>
 
 📫 Email: [dreamhigh0415@gmail.com](mailto:dreamhigh0415@gmail.com)
-🎄 Discord: cryptodream#1856
+🎄 Discord: Dr.crypto#1856
 🎁 Telegram: @DreamBuilder7
 🎄 Twitter: [cryptobuilder_7](https://twitter.com/cryptobuilder_7)
 <br>
